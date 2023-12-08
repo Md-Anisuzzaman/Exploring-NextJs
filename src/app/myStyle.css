@@ -1,0 +1,15 @@
+.nv_heading {
+    background-color: aquamarine;
+}
+
+.user-ds {
+    color: red;
+}
+
+.border {
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+    border: 1px solid gray;
+    
+}
