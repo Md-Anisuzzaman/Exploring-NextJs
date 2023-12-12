@@ -9,5 +9,4 @@ export const users = [
     "name": "Anisuzzaman",
     "email": "anisuzzaman1199@gmail.com"
   },
-  {}
 ];
