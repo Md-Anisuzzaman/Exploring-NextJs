@@ -2,7 +2,7 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
-    output: 'export',
+    // output: 'export',
     images: {
         remotePatterns: [
             {
@@ -18,9 +18,9 @@ const nextConfig = {
     // images: {
     //     domains: ["plus.unsplash.com", "t4.ftcdn.net"]
     // },
-    api: {
-        bodyParser: false,
-    },
+    // api: {
+    //     bodyParser: false,
+    // },
 
     env: {
         db_user: 'LaurenTest',
